@@ -1,0 +1,17 @@
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\bin\Debug\trabalhofinal.exe
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\bin\Debug\trabalhofinal.pdb
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\trabalhofinal.exe
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\trabalhofinal.pdb
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.Properties.Resources.resources
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.Form1.resources
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.aviso_campos_por_preencher.resources
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.aviso_duplicacao.resources
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.aviso_alteracao_sucesso.resources
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.aviso_alteracao_emprestimo_elemento_ja_por_emprestar.resources
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.categoria_invalida.resources
+C:\Users\Paulo Carvalho\Documents\My Dropbox\Curso ISEC (Paulo Carvalho - Rui Santos)\trabalhofinal\trabalhofinal\obj\x86\Debug\trabalhofinal.exe
+C:\Users\Paulo Carvalho\Documents\My Dropbox\Curso ISEC (Paulo Carvalho - Rui Santos)\trabalhofinal\trabalhofinal\obj\x86\Debug\trabalhofinal.pdb
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\trabalhofinal\trabalhofinal\obj\x86\Debug\tfinal.fail.resources

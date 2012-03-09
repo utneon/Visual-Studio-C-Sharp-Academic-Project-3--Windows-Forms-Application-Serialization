@@ -1,0 +1,5 @@
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\testar janelas e coisas estranhas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\testar janelas e coisas estranhas\obj\x86\Debug\testar_janelas_e_coisas_estranhas.Form1.resources
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\testar janelas e coisas estranhas\obj\x86\Debug\testar_janelas_e_coisas_estranhas.Properties.Resources.resources
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\testar janelas e coisas estranhas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\testar janelas e coisas estranhas\obj\x86\Debug\GenerateResource.write.1.tlog
